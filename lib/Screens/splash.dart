@@ -22,7 +22,7 @@ class SplashScreen extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Image.asset(
-                      "assets/images/calcu.jpg",
+                      "assets/images/calcu.png",
                       height: 150,
                       width: 150,
                     ),
@@ -36,7 +36,6 @@ class SplashScreen extends StatelessWidget {
                           fontFamily: 'Comfortaa',
                           letterSpacing: 6),
                     ),
-                   
                   ],
                 ),
               ),
