@@ -108,7 +108,6 @@ class CalculatorScreen extends StatelessWidget {
                             onPressed: () {
                               calcuCntlr.input.value = '';
                               calcuCntlr.output = 0.0;
-                              //  null; // Use .value for Rx variables
                             },
 
                             child: const Center(
